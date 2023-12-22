@@ -1,0 +1,206 @@
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\bin\Release\스쿼드 도서관.exe.config
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\bin\Release\스쿼드 도서관.exe
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\bin\Release\스쿼드 도서관.pdb
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookcall.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookdata.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookinformation.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookmanagement.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.alluser.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.bookoverdue.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookmark.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookrequest.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.bookreturn.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.book_overdue.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.book_purchase.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.managernotice.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.mydata.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.booksetup.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.QA.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Homepage1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Search2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_login1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Mypage.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Search1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_login2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.manager_login.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Homepage2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Form1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide02.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.library_set.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.managerrequest.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.manager_Hompage2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.mydatachange.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Properties.Resources.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.set2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userbook3.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userbookmark.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Userbookpurchase.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userbookrental.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Userbookrequest1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userlibraryuse.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userlibraryuse01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userlibraryuse02.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Userlibraryuse2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.usernewbook.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.usernotice.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.usernotice01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Useroverdue.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userQA.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userQA01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.usersearch2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Userunregister.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.user_compliance.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.user_compliance01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.user_recommend.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드 도서관.csproj.GenerateResource.cache
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드 도서관.csproj.CoreCompileInputs.cache
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드 도서관.exe
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드 도서관.pdb
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\bin\Release\스쿼드 도서관.exe.config
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\bin\Release\스쿼드 도서관.exe
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\bin\Release\스쿼드 도서관.pdb
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookcall.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookdata.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookinformation.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookmanagement.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.alluser.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.bookoverdue.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.bookrequest.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.bookreturn.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.managernotice.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.mydata.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.booksetup.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.data.QA.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Homepage1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Search2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_login1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Mypage.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Search1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_login2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.manager_login.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Homepage2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Form1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide02.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.library_set.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.managerrequest.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.manager_Homepage0.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.manager_Hompage2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.mydatachange.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Properties.Resources.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.set2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userbook3.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userbookmark.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Userbookpurchase.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userbookrental.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Userbookrequest1.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userlibraryuse.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userlibraryuse01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userlibraryuse02.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Userlibraryuse2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.usernewbook.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.usernotice.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.usernotice01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Useroverdue.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userQA.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.userQA01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.usersearch2.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.Userunregister.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.user_compliance.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.user_compliance01.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드_도서관.user_recommend.resources
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드 도서관.csproj.GenerateResource.cache
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드 도서관.csproj.CoreCompileInputs.cache
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드 도서관.exe
+C:\Users\pjsu2\Downloads\스쿼드 도서관-20211102T055729Z-001 (2)\스쿼드 도서관-20211102T055729Z-001\스쿼드 도서관\obj\Release\스쿼드 도서관.pdb
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\스쿼드 도서관.exe.config
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\스쿼드 도서관.exe
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\스쿼드 도서관.pdb
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\Google.Protobuf.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\MySql.Data.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\System.Buffers.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\System.Memory.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\System.Numerics.Vectors.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\ZstdNet.dll
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\Google.Protobuf.pdb
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\Google.Protobuf.xml
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\MySql.Data.xml
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\System.Buffers.xml
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\System.Memory.xml
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\System.Numerics.Vectors.xml
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드 도서관.csproj.AssemblyReference.cache
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.bookcall.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.bookdata.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.bookinformation.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.bookmanagement.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.data.alluser.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.data.bookoverdue.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.bookrequest.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.data.bookreturn.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.data.managernotice.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.data.mydata.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.data.booksetup.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.data.ABCDE.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.data.QA.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Homepage1.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Search2.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.User_login1.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.Mypage.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Search1.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.User_login2.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.manager_login.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Homepage2.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.managerrequest2.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.mn_newbook.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.QAcoment.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.QAcontent.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide01.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.libraryguide02.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.library_set.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.managerrequest.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.manager_Homepage0.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.manager_Hompage2.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.mydatachange.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.Properties.Resources.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.set2.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.userbook3.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.userbookmark.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.Userbookpurchase.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.userbookrental.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.Userbookrequest1.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.userlibraryuse01.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.userlibraryuse02.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.Userlibraryuse2.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.usernewbook.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.usernotice.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.usernotice01.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.Useroverdue.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.userQA.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.userQA01.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.usersearch2.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.Userunregister.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.user_compliance.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.user_compliance01.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.user_recommend.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Search3.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드_도서관.User_Search4.resources
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드 도서관.csproj.GenerateResource.cache
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드 도서관.csproj.CoreCompileInputs.cache
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드 도서관.csproj.CopyComplete
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드 도서관.exe
+C:\Users\pjsu2\OneDrive\문서\카카오톡 받은 파일\ver2-3\스쿼드 도서관\obj\Release\스쿼드 도서관.pdb
